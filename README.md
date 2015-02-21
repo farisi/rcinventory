@@ -1,0 +1,2 @@
+# rcinventory
+Applikasi Inventory 
